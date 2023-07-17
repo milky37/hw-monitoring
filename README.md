@@ -10,6 +10,6 @@
 
 ![Скриншот1](https://github.com/milky37/hw-monitoring/blob/branch/img/alert.png) 
 
-![Скриншот2](https://github.com/milky37/hw-monitoring/blob/img/alertmobile.png) 
+![Скриншот2](https://github.com/milky37/hw-monitoring/blob/main/jpg/alertmobile.png) 
  
 
